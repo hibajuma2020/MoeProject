@@ -1,1 +1,1 @@
-This is a test project for MoE dotnet training
+This is a test project for MoE dotnet training on git
